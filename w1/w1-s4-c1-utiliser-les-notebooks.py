@@ -4,7 +4,7 @@
 # <style>div.title-slide {    width: 100%;    display: flex;    flex-direction: row;            /* default value; can be omitted */    flex-wrap: nowrap;              /* default value; can be omitted */    justify-content: space-between;}</style><div class="title-slide">
 # <span style="float:left;">Licence CC BY-NC-ND</span>
 # <span>Thierry Parmentelat &amp; Arnaud Legout</span>
-# <span><img src="media/both-logos-small-alpha.png" style="display:inline" /></span>
+# <span><img src="../media/both-logos-small-alpha.png" style="display:inline" /></span>
 # </div>
 
 # # "Notebooks" Jupyter comme support de cours
@@ -31,7 +31,7 @@
 # Nous avons vu dans la vidéo qu'un notebook est constitué d'une suite de cellules, soit textuelles, soit contenant du code. Les cellules de code sont facilement reconnaissables, elles sont précédées de `In [ ]:`. La cellule qui suit celle que vous êtes en train de lire est une cellule de code.
 # 
 # Pour commencer, sélectionnez cette cellule de code avec votre souris, et appuyez dans la barre de boutons sur celui en forme de flèche triangulaire vers la droite (Play)
-# <img src="media/notebook-eval-button.png">
+# <img src="../media/notebook-eval-button.png">
 
 # In[ ]:
 
