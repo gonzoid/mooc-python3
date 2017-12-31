@@ -4,7 +4,7 @@
 # <style>div.title-slide {    width: 100%;    display: flex;    flex-direction: row;            /* default value; can be omitted */    flex-wrap: nowrap;              /* default value; can be omitted */    justify-content: space-between;}</style><div class="title-slide">
 # <span style="float:left;">Licence CC BY-NC-ND</span>
 # <span>Thierry Parmentelat &amp; Arnaud Legout</span>
-# <span><img src="media/both-logos-small-alpha.png" style="display:inline" /></span>
+# <span><img src="../media/both-logos-small-alpha.png" style="display:inline" /></span>
 # </div>
 
 # # Dessiner un carré
@@ -69,7 +69,7 @@ turtle.exitonclick()
 # Dans ce cas, commencez par chercher "*module python turtle*" dans votre moteur de recherche favori, pour localiser la documentation du module [`turtle`](https://docs.python.org/3/library/turtle.html).
 # 
 # Vous trouverez quelques exemples pour commencer ici&nbsp;:
-#  * [turtle_multi_squares.py](media/turtle_multi_squares.py) pour dessiner des carrés à l'emplacement de la souris en utilisant plusieurs tortues&nbsp;;
-#  * [turtle_fractal.py](media/turtle_fractal.py) pour dessiner une fractale simple&nbsp;;
-#  * [turtle_fractal_reglable.py](media/turtle_fractal_reglable.py) une variation sur la fractale, plus paramétrable.
+#  * [turtle_multi_squares.py](../media/turtle_multi_squares.py) pour dessiner des carrés à l'emplacement de la souris en utilisant plusieurs tortues&nbsp;;
+#  * [turtle_fractal.py](../media/turtle_fractal.py) pour dessiner une fractale simple&nbsp;;
+#  * [turtle_fractal_reglable.py](../media/turtle_fractal_reglable.py) une variation sur la fractale, plus paramétrable.
 #  
