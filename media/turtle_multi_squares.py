@@ -1,4 +1,5 @@
-# we need the turtle module
+#!/usr/bin/env python3
+
 import turtle
 
 # avoid calling range for each square
